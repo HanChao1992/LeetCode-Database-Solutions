@@ -1,5 +1,5 @@
-# LeetCode-Database-Solutions
-LeetCode Database Solutions
+# LeetCode_Database_Solutions
+LeetCode Solutions for Database Questions
 
 https://leetcode.com/problemset/database/
 
